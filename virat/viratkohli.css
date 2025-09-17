@@ -1,0 +1,26 @@
+body {
+background-color:blanchedalmond;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    background-color: greenyellow;
+    border-radius:5px;
+    border: solid 5px black;
+}
+p {
+    font-family: cursive;
+    text-align: justify;
+}
+img {
+    height: 320px;
+    width: 500px;
+    border: solid 5px black;
+    border-radius: 5px;
+
+}
+h2{
+    text-align:left;
+    background-color: greenyellow;
+    border: solid 3px black;
+    border-radius: 5px;
+}
